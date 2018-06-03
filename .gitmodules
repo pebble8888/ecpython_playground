@@ -1,0 +1,3 @@
+[submodule "ecpy"]
+	path = ecpy
+	url = git@github.com:pebble8888/ecpy.git
